@@ -1,0 +1,104 @@
+Welcome! Four example resources are ready to explore.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 2
+
+--- Add Printed Book ---
+Item ID: PB103
+Title: Algorithms and Design
+Author: Rina Shah
+Shelf location: C-04
+Printed book added successfully.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 3
+
+--- Add E-Book ---
+Item ID: EB203
+Title: Database Systems
+Author: Isabel Ng
+File format (e.g. PDF/EPUB): PDF
+E-book added successfully.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 4
+Search title or author: algorithm
+
+--- Search Results ---
+ID       | Type         | Title                    | Author             | Status    | Loan
+---------+--------------+--------------------------+--------------------+-----------+---------
+PB103    | Printed Book | Algorithms and Design    | Rina Shah          | Available | 21 days
+           Shelf location: C-04
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 1
+
+--- All Library Items ---
+ID       | Type         | Title                    | Author             | Status    | Loan
+---------+--------------+--------------------------+--------------------+-----------+---------
+PB101    | Printed Book | Java Fundamentals        | Nora Lim           | Available | 21 days
+           Shelf location: A-12
+PB102    | Printed Book | Data Structures          | Amir Hassan        | Available | 21 days
+           Shelf location: B-07
+EB201    | E-Book       | Software Design          | Grace Tan          | Available | 14 days
+           Digital format: PDF
+EB202    | E-Book       | Programming Logic        | Daniel Wong        | Available | 14 days
+           Digital format: EPUB
+PB103    | Printed Book | Algorithms and Design    | Rina Shah          | Available | 21 days
+           Shelf location: C-04
+EB203    | E-Book       | Database Systems         | Isabel Ng          | Available | 14 days
+           Digital format: PDF
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 0
+Thank you for using the system. Goodbye!

@@ -1,0 +1,40 @@
+Welcome! Four example resources are ready to explore.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 1
+
+--- All Library Items ---
+ID       | Type         | Title                    | Author             | Status    | Loan
+---------+--------------+--------------------------+--------------------+-----------+---------
+PB101    | Printed Book | Java Fundamentals        | Nora Lim           | Available | 21 days
+           Shelf location: A-12
+PB102    | Printed Book | Data Structures          | Amir Hassan        | Available | 21 days
+           Shelf location: B-07
+EB201    | E-Book       | Software Design          | Grace Tan          | Available | 14 days
+           Digital format: PDF
+EB202    | E-Book       | Programming Logic        | Daniel Wong        | Available | 14 days
+           Digital format: EPUB
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 0
+Thank you for using the system. Goodbye!

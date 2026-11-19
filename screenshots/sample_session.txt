@@ -1,0 +1,187 @@
+Welcome! Four example resources are ready to explore.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 
+--- All Library Items ---
+ID       | Type         | Title                    | Author             | Status    | Loan
+---------+--------------+--------------------------+--------------------+-----------+---------
+PB101    | Printed Book | Java Fundamentals        | Nora Lim           | Available | 21 days
+           Shelf location: A-12
+PB102    | Printed Book | Data Structures          | Amir Hassan        | Available | 21 days
+           Shelf location: B-07
+EB201    | E-Book       | Software Design          | Grace Tan          | Available | 14 days
+           Digital format: PDF
+EB202    | E-Book       | Programming Logic        | Daniel Wong        | Available | 14 days
+           Digital format: EPUB
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: Enter item ID to borrow: Borrow successful: Java Fundamentals (loan period: 21 days).
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: Enter item ID to borrow: This item is already borrowed.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 
+--- Library Summary ---
+Total items     : 4
+Available items : 3
+Borrowed items  : 1
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: Enter item ID to return: Return successful: Java Fundamentals
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 
+--- Library Summary ---
+Total items     : 4
+Available items : 4
+Borrowed items  : 0
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: Search title or author: 
+--- Search Results ---
+ID       | Type         | Title                    | Author             | Status    | Loan
+---------+--------------+--------------------------+--------------------+-----------+---------
+PB101    | Printed Book | Java Fundamentals        | Nora Lim           | Available | 21 days
+           Shelf location: A-12
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 
+--- Add Printed Book ---
+Item ID: Title: Author: Shelf location: Printed book added successfully.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 
+--- Add E-Book ---
+Item ID: Title: Author: File format (e.g. PDF/EPUB): E-book added successfully.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 
+--- All Library Items ---
+ID       | Type         | Title                    | Author             | Status    | Loan
+---------+--------------+--------------------------+--------------------+-----------+---------
+PB101    | Printed Book | Java Fundamentals        | Nora Lim           | Available | 21 days
+           Shelf location: A-12
+PB102    | Printed Book | Data Structures          | Amir Hassan        | Available | 21 days
+           Shelf location: B-07
+EB201    | E-Book       | Software Design          | Grace Tan          | Available | 14 days
+           Digital format: PDF
+EB202    | E-Book       | Programming Logic        | Daniel Wong        | Available | 14 days
+           Digital format: EPUB
+PB103    | Printed Book | Algorithms and Design    | Rina Shah          | Available | 21 days
+           Shelf location: C-04
+EB203    | E-Book       | Database Systems         | Isabel Ng          | Available | 14 days
+           Digital format: PDF
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: Thank you for using the system. Goodbye!

@@ -1,0 +1,35 @@
+OOP ASSIGNMENT 2 - FINAL SUBMISSION CHECKLIST
+=============================================
+
+COMPLETED IN THIS PACKAGE
+[✓] Java source code: 5 classes with comments and meaningful method names
+[✓] Compiles on Java 17+ (tested with OpenJDK 21)
+[✓] Demonstrates classes/objects, encapsulation, inheritance, polymorphism, abstraction
+[✓] Scanner user input, switch, if/else, loops, formatted outputs
+[✓] Functional add, display, search, borrow, return, and summary operations
+[✓] Test suite (15 checks, all passing)
+[✓] Report as PDF (10 pages)
+[✓] Editable Word version of the report
+[✓] UML class diagram (PNG, SVG, source DOT)
+[✓] Real sample output screenshots from Java execution
+[✓] AI declaration PDF
+
+REQUIRED USER ACTIONS BEFORE SUBMISSION
+[ ] Confirm that Afsal Rahman Noor Mohamed Mubarak is the correct first student
+[ ] Fill student 1 ID (previous TP numbers from other institutions are NOT assumed)
+[ ] Fill partner full name and student ID
+[ ] Fill class code and program
+[ ] Create a GitHub repository and upload Java source files
+[ ] Add the REAL GitHub URL to the PDF (edit Word document then export PDF if necessary)
+[ ] Personally review the Java code and all report statements
+[ ] Sign and date the AI Declaration, both students if required
+[ ] Upload PDF report, declaration, and requested code/GitHub link to Moodle
+
+HOW TO RUN ON WINDOWS
+1. Install a Java Development Kit (JDK) version 17 or newer.
+2. Double-click RUN_WINDOWS.bat or open the src folder in VS Code.
+3. If using a terminal: cd src && javac *.java && java LibraryApp
+
+NOTE
+The assignment brief states a submission deadline of 16 November 2026.
+No GitHub URL, signature or partner details have been invented.

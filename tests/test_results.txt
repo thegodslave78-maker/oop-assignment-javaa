@@ -1,0 +1,16 @@
+PASS: add printed book
+PASS: add e-book
+PASS: reject case-insensitive duplicate ID
+PASS: count resources
+PASS: find by ID ignoring case
+PASS: case-insensitive search
+PASS: printed-book loan policy
+PASS: e-book loan policy
+PASS: borrow available item
+PASS: prevent double borrowing
+PASS: available count after borrowing
+PASS: return borrowed item
+PASS: prevent double returning
+PASS: available count after returning
+PASS: reject unknown item ID
+ALL TESTS PASSED (15 checks).

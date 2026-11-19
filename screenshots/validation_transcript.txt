@@ -1,0 +1,63 @@
+Welcome! Four example resources are ready to explore.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: abc
+Please enter a whole number.
+Select an option: 9
+Invalid option. Choose 0 to 7.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 2
+
+--- Add Printed Book ---
+Item ID: PB101
+An item with that ID already exists.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 6
+Enter item ID to return: EB201
+This item is already available.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 0
+Thank you for using the system. Goodbye!

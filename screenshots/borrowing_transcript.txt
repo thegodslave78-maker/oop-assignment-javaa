@@ -1,0 +1,63 @@
+Welcome! Four example resources are ready to explore.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 5
+Enter item ID to borrow: PB101
+Borrow successful: Java Fundamentals (loan period: 21 days).
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 5
+Enter item ID to borrow: PB101
+This item is already borrowed.
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 7
+
+--- Library Summary ---
+Total items     : 4
+Available items : 3
+Borrowed items  : 1
+
+===============================================================
+              LIBRARY MANAGEMENT SYSTEM
+===============================================================
+1. Display all library items
+2. Add printed book
+3. Add e-book
+4. Search by title or author
+5. Borrow an item
+6. Return an item
+7. Library summary
+0. Exit
+Select an option: 0
+Thank you for using the system. Goodbye!
